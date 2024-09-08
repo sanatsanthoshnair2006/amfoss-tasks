@@ -1,5 +1,5 @@
 # Directory Structure of Flask
-.
+```.
 ├── app
 │   ├── api
 │   │   ├── auth.py
@@ -1594,6 +1594,6 @@
 ├── requirements.txt
 ├── tests.py
 └── Vagrantfile
-
+```
 184 directories, 1411 files
 
