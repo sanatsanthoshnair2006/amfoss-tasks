@@ -137,8 +137,8 @@ Follow the steps below:
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
-    return 'Hello world!'```
-
+    return 'Hello world!'
+```
 3. Save the file and close.
 
 4. Using the terminal, navigate to the project directory using the cd command.
