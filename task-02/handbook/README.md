@@ -12,7 +12,7 @@ Here I find the chests using find and unlocked it using the celestial veil amule
 ## PART 4
 Here I decode the code and got a github repository
 
-##PART 5
+## PART 5
 Here I got the secret code and after I decode it I then again got a github repository that I clone it int he terminal using git clone.
 After that I got victory.py file which I took screenshot.
 
