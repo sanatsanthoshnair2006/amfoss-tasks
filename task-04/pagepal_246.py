@@ -1,7 +1,6 @@
 import requests
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 
-# API code and Telegram token
 TOKEN = "7067448373:AAFtMcW4B_w0ugNeyzbeQjURMOzApvOKNAA"
 GOOGLE_BOOKS_API_KEY = "AIzaSyDm7XoQGdo1y1-37yfdbTJapqrQVxvEzpY"
 
